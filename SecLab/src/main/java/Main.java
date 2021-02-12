@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("GG");
         System.out.println("WP");
-        System.out.println("sooqa");
+        System.out.println("fg");
     }
 
 }
