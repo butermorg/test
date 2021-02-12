@@ -5,6 +5,7 @@ public class Main {
         System.out.println("GG");
         System.out.println("WP");
         System.out.println("fg");
+        System.out.println("SEX?");
     }
 
 }
